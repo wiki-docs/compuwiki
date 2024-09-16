@@ -1,4 +1,4 @@
-![](carrera-puntos-dibujo)
+![](carrera-puntos-dibujo.md)
 
 
 ```cs
