@@ -1,3 +1,3 @@
 # Compuwiki
 
-Wiki de computación construida en Quartz.
+Wiki of Computing build with Quartz.
